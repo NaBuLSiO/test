@@ -1,6 +1,9 @@
 ---
 title: Hello
 blocks:
+  - message: |
+      osama
+    _template: welcomeHero
   - message: "# Talk to llama,\n\n# Share the\_**drama!**\n\nConnect, Communicate, and Create Memorable Moments with Llama Video Calls\n"
     links:
       - link: /
@@ -52,6 +55,7 @@ blocks:
     featuredPost: content/posts/call-themes.md
     _template: featuredReading
 ---
+
 
 
 
